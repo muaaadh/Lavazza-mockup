@@ -1,6 +1,8 @@
 // End-to-end run of the demo: shop -> cart -> checkout -> gateway -> tracking -> admin and back.
 // node e2e.mjs [baseUrl] [shotsDir] [engine=chromium|webkit]
-import { chromium, webkit } from 'playwright-core';
+import { createRequire } from 'node:module';
+const require = createRequire(process.cwd() + '/'); // playwright-core is looked up from the folder you run this in
+const { chromium, webkit } = require('playwright-core');
 const BASE = process.argv[2] || 'http://127.0.0.1:4173/';
 const SHOTS = process.argv[3] || '.';
 const ENGINE = process.argv[4] || 'chromium';
