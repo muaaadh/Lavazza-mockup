@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en" data-base="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Track your order | Lavazza Maldives</title>
+<meta name="description" content="Enter your order number to see where your Lavazza order is. Demo site.">
+<link rel="icon" href="assets/img/brand/favicon.svg">
+<link rel="preload" as="font" type="font/woff2" href="assets/fonts/bricolage-grotesque-latin.woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/site.css">
+<script>document.documentElement.classList.add('js');setTimeout(function(){if(!window.LV_READY)document.documentElement.classList.remove('js')},4000)</script>
+</head>
+<body>
+
+<main id="main">
+  <div class="wrap page-head">
+    <span class="eyebrow">Order tracking</span>
+    <h1 class="display h-lg">Where is my coffee?</h1>
+    <p class="lead">Enter the order number from your confirmation. It starts with LVZ.</p>
+    <form class="track-form" id="track-form" style="margin-top:24px">
+      <label class="sr" for="order">Order number</label>
+      <input class="inp" id="order" name="order" placeholder="LVZ-24018" autocomplete="off" autocapitalize="characters" required>
+      <button class="btn" type="submit">Track order <svg class="arr" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12h15M13 6l6 6-6 6"/></svg></button>
+    </form>
+    <p class="track-try" id="track-try"></p>
+  </div>
+  <div class="wrap" id="track-out" aria-live="polite"></div>
+</main>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/brand.js"></script>
+<script src="assets/js/store.js"></script>
+<script src="assets/js/ui.js"></script>
+<script src="assets/js/track.js"></script>
+</body>
+</html>

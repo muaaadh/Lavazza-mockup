@@ -1,0 +1,6 @@
+# Working notes and photo credits hold open client questions. GitHub Pages serves every file in the repo,
+# so they stay out of it and live in the project folder and OneDrive only.
+NOTES.md
+CREDITS.md
+.DS_Store
+node_modules/

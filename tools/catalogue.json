@@ -1,0 +1,2189 @@
+[
+ {
+  "id": "amm-qualita-rossa",
+  "name": "Qualità Rossa",
+  "category": "capsules",
+  "system": "amm",
+  "cls": "everyday",
+  "env": [
+   "home",
+   "guesthouse",
+   "office"
+  ],
+  "price": 139,
+  "best": true,
+  "isNew": false,
+  "stock": 140,
+  "desc": "From the union of natural Brazilian Arabica and Robusta, the myth makes the espresso full, balanced and full-bodied. Red Italian Passion.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/a-modo-mio-qualita-rossa",
+  "pack": "16 capsules",
+  "intensity": 10,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Chocolate"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Red Italian Passion",
+  "profileDesc": "Balanced, full-bodied, long-lasting flavour.",
+  "decaf": false
+ },
+ {
+  "id": "amm-qualita-oro",
+  "name": "Qualità Oro",
+  "category": "capsules",
+  "system": "amm",
+  "cls": "premium",
+  "env": [
+   "home",
+   "guesthouse",
+   "office"
+  ],
+  "price": 149,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "From Central and South American 100% Arabica coffee, a blend with an intense and fragrant, sweet and refined aroma, with a long-lasting aftertaste. Gold standard.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/a-modo-mio-qualita-oro",
+  "pack": "16 capsules",
+  "intensity": 8,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Floral",
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Sweet and aromatic",
+  "profileDesc": "Sweet and delicate taste, with an intense and fragrant aroma.",
+  "decaf": false
+ },
+ {
+  "id": "amm-passionale",
+  "name": "Passionale",
+  "category": "capsules",
+  "system": "amm",
+  "cls": "premium",
+  "env": [
+   "home",
+   "office"
+  ],
+  "price": 145,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "From Brazilian, Asian and Central-South American Arabica, an espresso with an intense and harmonious taste, which likes to be slightly caramelized and with notes of chocolate.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/a-modo-mio-passionale",
+  "pack": "16 capsules",
+  "intensity": 11,
+  "scale": 13,
+  "roast": "Dark",
+  "notes": [
+   "Chocolate"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Harmonious, full, sweet",
+  "profileDesc": "The espresso of age-old Italian tradition.",
+  "decaf": false
+ },
+ {
+  "id": "amm-intenso",
+  "name": "Intenso",
+  "category": "capsules",
+  "system": "amm",
+  "cls": "everyday",
+  "env": [
+   "home",
+   "guesthouse",
+   "office"
+  ],
+  "price": 139,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "From the Central-South American Arabica, and Asian and African Robusta, comes a perfume of the East in a bold, full-bodied espresso with spicy notes. Seductive intensity.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/a-modo-mio-intenso",
+  "pack": "16 capsules",
+  "intensity": 13,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Cocoa",
+   "Spices"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Intense, full-bodied, well-rounded",
+  "profileDesc": "A blend with long-lasting aftertaste and spiced aromas, also for preparations with milk.",
+  "decaf": false
+ },
+ {
+  "id": "amm-delizioso",
+  "name": "Delizioso",
+  "category": "capsules",
+  "system": "amm",
+  "cls": "premium",
+  "env": [
+   "home",
+   "guesthouse"
+  ],
+  "price": 145,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "A roasting that reveals a soft bouquet, with a sweet aftertaste and aromatic, slightly liqueur-like notes.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/a-modo-mio-delizioso",
+  "pack": "16 capsules",
+  "intensity": 8,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Floral"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Soft, sweet and aromatic",
+  "profileDesc": "An elegant, floral blend.",
+  "decaf": false
+ },
+ {
+  "id": "amm-crema-e-gusto",
+  "name": "Crema e Gusto",
+  "category": "capsules",
+  "system": "amm",
+  "cls": "everyday",
+  "env": [
+   "home",
+   "guesthouse",
+   "office"
+  ],
+  "price": 135,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "From the meeting between Brazilian Arabica and African and Asian Robusta, a full-bodied and aromatic espresso enhanced by sweet and chocolatey notes, slightly spiced. Absolutely delicious.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/a-modo-mio-crema-e-gusto",
+  "pack": "16 capsules",
+  "intensity": 12,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Chocolate",
+   "Spices"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Harmonious and creamy",
+  "profileDesc": "Long-lasting and balanced taste, intense notes of dark chocolate.",
+  "decaf": false
+ },
+ {
+  "id": "amm-lungo-dolce",
+  "name": "Lungo Dolce",
+  "category": "capsules",
+  "system": "amm",
+  "cls": "premium",
+  "env": [
+   "home",
+   "office"
+  ],
+  "price": 145,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "Sweet Asian and Central and South American Arabica with fruity notes for a smooth coffee that is appreciated lungo, in a large mug. Long and gently enveloping.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/a-modo-mio-lungo-dolce",
+  "pack": "16 capsules",
+  "intensity": 6,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Sweet, soft, creamy",
+  "profileDesc": "The goodness of an espresso lungo, also suitable for preparations with milk.",
+  "decaf": false
+ },
+ {
+  "id": "amm-divino",
+  "name": "Divino",
+  "category": "capsules",
+  "system": "amm",
+  "cls": "premium",
+  "env": [
+   "home"
+  ],
+  "price": 149,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "Blend of fine Robusta and Arabica for a velvety espresso with chocolate and liqueur-like notes and a hint of dried fruit.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/a-modo-mio-divino",
+  "pack": "16 capsules",
+  "intensity": 11,
+  "scale": 13,
+  "roast": "Dark",
+  "notes": [
+   "Liquorice"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Velvety, with a refined flavour",
+  "profileDesc": "A premium espresso.",
+  "decaf": false
+ },
+ {
+  "id": "amm-decaf",
+  "name": "Decaf Cremoso",
+  "category": "capsules",
+  "system": "amm",
+  "cls": "everyday",
+  "env": [
+   "home",
+   "guesthouse",
+   "office"
+  ],
+  "price": 145,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "Decaffeinated Brazilian Arabica gives us a full espresso, rich in taste. The Lavazza decaffeination method leaves the unique characteristics of each origin unchanged. Beautiful decaf.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/a-modo-mio-dek-cremoso",
+  "pack": "16 capsules",
+  "intensity": 7,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Fruity",
+   "Nutty"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Full and balanced taste",
+  "profileDesc": "The taste of espresso in a decaffeinated version, also suitable for preparations with milk.",
+  "decaf": true
+ },
+ {
+  "id": "ncc-maestro-ristretto",
+  "name": "Espresso Maestro Ristretto",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "premium",
+  "env": [
+   "resort",
+   "guesthouse",
+   "office",
+   "home"
+  ],
+  "price": 105,
+  "best": true,
+  "isNew": false,
+  "stock": 140,
+  "desc": "Be short, be strong, be Ristretto. Less is more, even for coffee. Master blenders crafted this coffee blend to reflect the intense elegance of chocolate and caramel notes.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/nespresso-compatible-espresso-maestro-ristretto",
+  "pack": "10 capsules",
+  "intensity": 12,
+  "scale": 13,
+  "roast": "Extra Dark",
+  "notes": [
+   "Caramelized",
+   "Chocolate"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "An intense coffee experience",
+  "profileDesc": "Intense and full-bodied espresso, with notes of chocolate and caramel.",
+  "decaf": false
+ },
+ {
+  "id": "ncc-maestro-classico",
+  "name": "Espresso Maestro Classico",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "premium",
+  "env": [
+   "resort",
+   "guesthouse",
+   "office",
+   "home"
+  ],
+  "price": 105,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "Our signature medium roast with a sweet and balanced flavor. Classico combines beans from Central and South America for a delicious blend with notes of grains and biscotti.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/nespresso-compatible-espresso-maestro-classico",
+  "pack": "10 capsules",
+  "intensity": 9,
+  "scale": 13,
+  "roast": "Dark",
+  "notes": [
+   "Biscuit",
+   "Roasted cereal"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Sweet and balanced",
+  "profileDesc": "Balanced aromas, light acidity with notes of cereals and biscuits.",
+  "decaf": false
+ },
+ {
+  "id": "ncc-maestro-intenso",
+  "name": "Espresso Maestro Intenso",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "premium",
+  "env": [
+   "resort",
+   "office",
+   "home"
+  ],
+  "price": 105,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "Enjoy the aromas from the land where woods breath deeply and cocoa beans spread their intense flavours. Our Master blenders know how to make you savour such a sensory journey.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/nespresso-compatible-espresso-maestro-intenso",
+  "pack": "10 capsules",
+  "intensity": 11,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Cocoa",
+   "Woody",
+   "Spices"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Intense and full-bodied",
+  "profileDesc": "Savour the wood and spice notes, light cocoa and dried fruit aftertaste",
+  "decaf": false
+ },
+ {
+  "id": "ncc-maestro-lungo",
+  "name": "Espresso Maestro Lungo",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "premium",
+  "env": [
+   "resort",
+   "guesthouse",
+   "office",
+   "home"
+  ],
+  "price": 105,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "“Lungo” means long: like a row of roses in an Italian garden, like our country resting on the sea. Enjoy its floral flavour with fruity notes artfully blended by our Masters.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/nespresso-compatible-espresso-maestro-lungo",
+  "pack": "10 capsules",
+  "intensity": 5,
+  "scale": 13,
+  "roast": "Light",
+  "notes": [
+   "Floral",
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "A Lungo-lasting pleasure",
+  "profileDesc": "Sweet and aromatic quality espresso with floral and fruity notes.",
+  "decaf": false
+ },
+ {
+  "id": "ncc-qualita-oro",
+  "name": "Qualità Oro",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "premium",
+  "env": [
+   "resort",
+   "guesthouse",
+   "home"
+  ],
+  "price": 99,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "Enjoy the perfect symphony of the best Arabica coffee beans enriched with fruity and floral notes. All this is Qualità Oro, the true essence of elegance.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/nespresso-compatible-qualita-oro",
+  "pack": "10 capsules",
+  "intensity": 8,
+  "scale": 13,
+  "roast": "Light",
+  "notes": [
+   "Floral",
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Sweet and delicate",
+  "profileDesc": "Creamy coffee with an elegant taste and notes of flowers and fruit.",
+  "decaf": false
+ },
+ {
+  "id": "ncc-qualita-rossa",
+  "name": "Qualità Rossa",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "everyday",
+  "env": [
+   "guesthouse",
+   "office",
+   "home"
+  ],
+  "price": 95,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "Savour a capsule that encompasses the Italian lifestyle. Imagine enjoying the balance between dried fruit and soft chocolate in Venice, or in a tiny Tuscan country village.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/nespresso-compatible-qualita-rossa",
+  "pack": "10 capsules",
+  "intensity": 10,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Chocolate",
+   "Dried fruit"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Taste a sip of Italian joy",
+  "profileDesc": "Full-bodied and balanced espresso, with a dried fruit aftertaste.",
+  "decaf": false
+ },
+ {
+  "id": "ncc-crema-e-gusto",
+  "name": "Crema e Gusto",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "everyday",
+  "env": [
+   "guesthouse",
+   "office",
+   "home"
+  ],
+  "price": 89,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "A good morning starts with… Crema e gusto! The perfect balance between willpower and the joy of little pleasures in the morning.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/nespresso-compatible-crema-e-gusto",
+  "pack": "10 capsules",
+  "intensity": 12,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Woody",
+   "Chocolate",
+   "Spices"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Waking up has a new taste",
+  "profileDesc": "Creamy, with notes of dark chocolate and an aftertaste of wood and spices.",
+  "decaf": false
+ },
+ {
+  "id": "ncc-decaf",
+  "name": "Decaf",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "everyday",
+  "env": [
+   "resort",
+   "guesthouse",
+   "office",
+   "home"
+  ],
+  "price": 99,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "The perfect balance of strength and lightness comes to your home in an authentic-tasting blend, which is decaffeinated through a natural process.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/nespresso-compatible-decaf",
+  "pack": "10 capsules",
+  "intensity": 7,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Fruity",
+   "Chocolate"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Your balance of taste",
+  "profileDesc": "Intense and light, your natural decaf in a compatible capsule.",
+  "decaf": true
+ },
+ {
+  "id": "ncc-tales-of-napoli",
+  "name": "Tales of Napoli",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "signature",
+  "env": [
+   "resort",
+   "home"
+  ],
+  "price": 119,
+  "best": false,
+  "isNew": true,
+  "stock": 140,
+  "desc": "Characterized by the vibrant spirit and delightful essence reminiscent of Napoli, a finest blend of Natural Arabica and Robusta distinguished by the intensity of its prolonged roast with prominent notes of cocoa and caramel.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/tales-of-napoli",
+  "pack": "10 capsules",
+  "intensity": 12,
+  "scale": 13,
+  "roast": "Dark",
+  "notes": [
+   "Caramelized",
+   "Cocoa"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Delicate and rich",
+  "profileDesc": "Embark on a flavor adventure with our intense blend.",
+  "decaf": false
+ },
+ {
+  "id": "ncc-tales-of-roma",
+  "name": "Tales of Roma",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "signature",
+  "env": [
+   "resort",
+   "home"
+  ],
+  "price": 119,
+  "best": false,
+  "isNew": true,
+  "stock": 140,
+  "desc": "Immerse yourself in an expert blend of selected Arabica and Robusta and let it whisk you away to the timeless streets of the Eternal City thanks to its notes of hazelnut and dark chocolate.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/tales-of-roma",
+  "pack": "10 capsules",
+  "intensity": 10,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Nutty",
+   "Chocolate"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Authentic and full-bodied",
+  "profileDesc": "A smooth blend of beans renowned for their exceptional quality.",
+  "decaf": false
+ },
+ {
+  "id": "ncc-gourmet-caramel",
+  "name": "Espresso Gourmet Caramel",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "premium",
+  "env": [
+   "home",
+   "office"
+  ],
+  "price": 109,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "Discover the finest Arabica varieties from Central and South America. Selected, blended and roasted to perfection. When paired with the natural aroma of caramel, they create a balanced coffee with a sweet yet delicate taste and notes of coffee.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/espresso-gourmet-caramel",
+  "pack": "10 capsules",
+  "intensity": 8,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Biscuit"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Authentic and full-bodied",
+  "profileDesc": "A balanced, sweet and delicate experience",
+  "decaf": false
+ },
+ {
+  "id": "ncc-gourmet-vanilla",
+  "name": "Espresso Gourmet Vanilla Affogato",
+  "category": "capsules",
+  "system": "ncc",
+  "cls": "premium",
+  "env": [
+   "home"
+  ],
+  "price": 109,
+  "best": false,
+  "isNew": false,
+  "stock": 140,
+  "desc": "Vanilla Espresso is a harmonious coffee where the intensity of coffee meets the sweet taste of vanilla. A carefully selected 100% Arabica coffee blended with natural vanilla flavor, perfect to enjoy with ice cream for an authentic moment of pleasure, the Italian way.",
+  "source": "https://www.lavazza.com/en/coffee-capsules-pods/espresso-gourmet-vanilla-affogato",
+  "pack": "10 capsules",
+  "intensity": 8,
+  "scale": 13,
+  "roast": "Medium",
+  "notes": [
+   "Vanilla"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Sweet and balanced",
+  "profileDesc": "A perfect blend to enhance the taste of vanilla",
+  "decaf": false
+ },
+ {
+  "id": "tabli-qualita-oro",
+  "name": "Tablì Qualità Oro",
+  "category": "capsules",
+  "system": "tabli",
+  "cls": "signature",
+  "env": [
+   "home",
+   "office"
+  ],
+  "price": 129,
+  "best": false,
+  "isNew": true,
+  "stock": 140,
+  "desc": "A whole new coffee system for a full sensorial experience. 100% coffee tab with no coating. 100% Arabica. Elegant, with floral and fruity notes",
+  "source": "https://www.lavazza.com/en/tabli-coffee-tabs/qualita-oro",
+  "pack": "12 tabs",
+  "intensity": 8,
+  "scale": 13,
+  "roast": "Medium light",
+  "notes": [
+   "Floral",
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "",
+  "profileDesc": "",
+  "decaf": false
+ },
+ {
+  "id": "tabli-classico",
+  "name": "Tablì Espresso Classico",
+  "category": "capsules",
+  "system": "tabli",
+  "cls": "signature",
+  "env": [
+   "home",
+   "office"
+  ],
+  "price": 125,
+  "best": false,
+  "isNew": true,
+  "stock": 140,
+  "desc": "A whole new coffee system for a full sensorial experience. 100% coffee tab with no coating. 100% Arabica. Balanced, with cereal notes and biscuity aftertaste.",
+  "source": "https://www.lavazza.com/en/tabli-coffee-tabs/espresso-classico",
+  "pack": "12 tabs",
+  "intensity": 9,
+  "scale": 13,
+  "roast": "Dark",
+  "notes": [
+   "Cocoa"
+  ],
+  "blend": "100% Arabica",
+  "profile": "",
+  "profileDesc": "",
+  "decaf": false
+ },
+ {
+  "id": "tabli-intenso",
+  "name": "Tablì Espresso Intenso",
+  "category": "capsules",
+  "system": "tabli",
+  "cls": "signature",
+  "env": [
+   "home",
+   "office"
+  ],
+  "price": 125,
+  "best": false,
+  "isNew": true,
+  "stock": 140,
+  "desc": "A whole new coffee system for a full sensorial experience. 100% coffee tab with no coating. Intense, with spicy notes and an aftertaste of cocoa and biscuits",
+  "source": "https://www.lavazza.com/en/tabli-coffee-tabs/espresso-intenso",
+  "pack": "12 tabs",
+  "intensity": 11,
+  "scale": 13,
+  "roast": "Medium dark",
+  "notes": [
+   "Cocoa",
+   "Dark chocolate"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "",
+  "profileDesc": "",
+  "decaf": false
+ },
+ {
+  "id": "tabli-decaf",
+  "name": "Tablì Decaf",
+  "category": "capsules",
+  "system": "tabli",
+  "cls": "signature",
+  "env": [
+   "home"
+  ],
+  "price": 129,
+  "best": false,
+  "isNew": true,
+  "stock": 140,
+  "desc": "A whole new coffee system for a full sensorial experience. 100% coffee tab with no coating. 100% Arabica. Full flavoured, with nutty notes and a light chocolately aftertaste",
+  "source": "https://www.lavazza.com/en/tabli-coffee-tabs/decaf",
+  "pack": "12 tabs",
+  "intensity": 7,
+  "scale": 13,
+  "roast": "Medium light",
+  "notes": [
+   "Nutty",
+   "Chocolate"
+  ],
+  "blend": "100% Arabica",
+  "profile": "",
+  "profileDesc": "",
+  "decaf": true
+ },
+ {
+  "id": "beans-qualita-oro",
+  "name": "Qualità Oro",
+  "category": "beans",
+  "system": "beans",
+  "cls": "premium",
+  "env": [
+   "cafe",
+   "resort",
+   "home",
+   "office"
+  ],
+  "price": 345,
+  "best": true,
+  "isNew": false,
+  "stock": 60,
+  "desc": "Qualità Oro is a combination of finest Arabica beans from Central & South America. The perfect symphony of taste you can enjoy every day. Like every Italian family.",
+  "source": "https://www.lavazza.com/en/coffee-beans/qualita-oro",
+  "pack": "500 g",
+  "intensity": 5,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Floral",
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Smooth and aromatic",
+  "profileDesc": "A coffee with a dark colour, velvety texture, notes of fruit and flowers.",
+  "decaf": false
+ },
+ {
+  "id": "beans-qualita-rossa",
+  "name": "Qualità Rossa",
+  "category": "beans",
+  "system": "beans",
+  "cls": "everyday",
+  "env": [
+   "cafe",
+   "guesthouse",
+   "home",
+   "office"
+  ],
+  "price": 525,
+  "best": true,
+  "isNew": false,
+  "stock": 60,
+  "desc": "You know it by its colour: red, like the Italian passion for coffee. Qualità Rossa is the pleasure of fine coffee for you to enjoy at any moment of the day.",
+  "source": "https://www.lavazza.com/en/coffee-beans/qualita-rossa",
+  "pack": "1 kg",
+  "intensity": 5,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Fruity",
+   "Chocolate"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Rich and full-bodied",
+  "profileDesc": "Golden cream coffee with a warm colour, hints of chocolate, dried fruits.",
+  "decaf": false
+ },
+ {
+  "id": "beans-crema-e-aroma",
+  "name": "Crema e Aroma",
+  "category": "beans",
+  "system": "beans",
+  "cls": "everyday",
+  "env": [
+   "cafe",
+   "resort",
+   "guesthouse"
+  ],
+  "price": 560,
+  "best": true,
+  "isNew": false,
+  "stock": 60,
+  "desc": "Lavazza Crema e Aroma is a premium blend of carefully selected Arabica and Robusta, to enjoy the long-lasting creaminess of an exquisite coffee. Ideal for milk recipes.",
+  "source": "https://www.lavazza.com/en/coffee-beans/crema-aroma",
+  "pack": "1 kg",
+  "intensity": 8,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Chocolate"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "An unparalleled creaminess",
+  "profileDesc": "A creamy and aromatic coffee with chocolate notes.",
+  "decaf": false
+ },
+ {
+  "id": "beans-gran-crema",
+  "name": "Espresso Barista Gran Crema",
+  "category": "beans",
+  "system": "beans",
+  "cls": "premium",
+  "env": [
+   "cafe",
+   "resort",
+   "office"
+  ],
+  "price": 620,
+  "best": false,
+  "isNew": false,
+  "stock": 60,
+  "desc": "Espresso Barista Gran Crema is the expression of Lavazza's expertise in crafting superior quality coffee, to make you feel like a barista. Enjoy authentic Italian espresso.",
+  "source": "https://www.lavazza.com/en/coffee-beans/espresso-barista-gran-crema",
+  "pack": "1 kg",
+  "intensity": 7,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Floral"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Velvety and balanced",
+  "profileDesc": "Velvety, balanced and drum roasted, ground with an intense taste and aromatic floral notes.",
+  "decaf": false
+ },
+ {
+  "id": "beans-barista-intenso",
+  "name": "Espresso Barista Intenso",
+  "category": "beans",
+  "system": "beans",
+  "cls": "premium",
+  "env": [
+   "cafe",
+   "resort"
+  ],
+  "price": 620,
+  "best": false,
+  "isNew": false,
+  "stock": 60,
+  "desc": "Espresso Barista Intenso is the expression of Lavazza's expertise in crafting superior quality coffee to make you feel like a barista. Enjoy authentic Italian espresso.",
+  "source": "https://www.lavazza.com/en/coffee-beans/espresso-barista-intenso",
+  "pack": "1 kg",
+  "intensity": 9,
+  "scale": 10,
+  "roast": "Drum",
+  "notes": [
+   "Cocoa",
+   "Wood"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Intense and full-bodied",
+  "profileDesc": "A coffee with an intense aftertaste and notes of cocoa and wood.",
+  "decaf": false
+ },
+ {
+  "id": "beans-barista-perfetto",
+  "name": "Espresso Barista Perfetto",
+  "category": "beans",
+  "system": "beans",
+  "cls": "premium",
+  "env": [
+   "cafe",
+   "resort",
+   "office"
+  ],
+  "price": 650,
+  "best": false,
+  "isNew": false,
+  "stock": 60,
+  "desc": "Espresso Barista Perfetto is the expression of Lavazza's expertise in crafting superior quality coffee, to make you feel like a barista. Enjoy authentic Italian espresso.",
+  "source": "https://www.lavazza.com/en/coffee-beans/espresso-barista-perfetto",
+  "pack": "1 kg",
+  "intensity": 6,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Floral"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Aromatic and round",
+  "profileDesc": "A coffee with aroma and creamy texture with floral aromatic notes.",
+  "decaf": false
+ },
+ {
+  "id": "beans-espresso-italiano",
+  "name": "Espresso Italiano Classico",
+  "category": "beans",
+  "system": "beans",
+  "cls": "premium",
+  "env": [
+   "cafe",
+   "resort",
+   "office",
+   "home"
+  ],
+  "price": 590,
+  "best": false,
+  "isNew": false,
+  "stock": 60,
+  "desc": "Espresso Italiano Classico is the selection of blends perfected by Lavazza just for you to enjoy all the taste and aroma of a rich Italian espresso in your favourite brewing.",
+  "source": "https://www.lavazza.com/en/coffee-beans/espresso-italiano-classico",
+  "pack": "1 kg",
+  "intensity": 5,
+  "scale": 10,
+  "roast": "Light",
+  "notes": [
+   "Flowers"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Aromatic and velvety",
+  "profileDesc": "A rich and smooth coffee flavour with aromatic notes of flowers.",
+  "decaf": false
+ },
+ {
+  "id": "beans-crema-e-gusto",
+  "name": "Crema e Gusto Classico",
+  "category": "beans",
+  "system": "beans",
+  "cls": "everyday",
+  "env": [
+   "cafe",
+   "guesthouse"
+  ],
+  "price": 520,
+  "best": false,
+  "isNew": false,
+  "stock": 60,
+  "desc": "A creamy espresso with an intense flavour and distinctive taste, characterised by a delicate scent of fine wood.",
+  "source": "https://www.lavazza.com/en/coffee-beans/crema-e-gusto-classico",
+  "pack": "1 kg",
+  "intensity": 7,
+  "scale": 10,
+  "roast": "Dark",
+  "notes": [
+   "Woody"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Soft and velvety",
+  "profileDesc": "A blend conceived for the espresso coffee machine, for a creamy and intense coffee.",
+  "decaf": false
+ },
+ {
+  "id": "beans-caffe-crema",
+  "name": "Caffè Crema Classico",
+  "category": "beans",
+  "system": "beans",
+  "cls": "everyday",
+  "env": [
+   "cafe",
+   "guesthouse",
+   "office"
+  ],
+  "price": 540,
+  "best": false,
+  "isNew": false,
+  "stock": 60,
+  "desc": "Deep and creamy coffee with a pleasing aftertaste and a lasting cream.",
+  "source": "https://www.lavazza.com/en/coffee-beans/caffe-crema-classico",
+  "pack": "1 kg",
+  "intensity": 7,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Fruity"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Aromatic and balanced",
+  "profileDesc": "Round aroma and delicate taste.",
+  "decaf": false
+ },
+ {
+  "id": "beans-gran-riserva",
+  "name": "Qualità Oro Gran Riserva",
+  "category": "beans",
+  "system": "beans",
+  "cls": "signature",
+  "env": [
+   "resort",
+   "cafe"
+  ],
+  "price": 720,
+  "best": false,
+  "isNew": false,
+  "stock": 60,
+  "desc": "Lavazza Qualità Oro Gran Riserva is a precious 100% Arabica coffee refined with beans stored in spirits barrels. Best slowly savoured to truly enjoy its unique flavors.",
+  "source": "https://www.lavazza.com/en/coffee-beans/qualita-oro-gran-riserva",
+  "pack": "1 kg",
+  "intensity": 6,
+  "scale": 10,
+  "roast": "Light",
+  "notes": [
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Sweet and aromatic",
+  "profileDesc": "A unique and refined blend with complex aromatic bouquet.",
+  "decaf": false
+ },
+ {
+  "id": "beans-oro-mountain-grown",
+  "name": "Qualità Oro Mountain Grown",
+  "category": "beans",
+  "system": "beans",
+  "cls": "signature",
+  "env": [
+   "resort",
+   "cafe",
+   "home"
+  ],
+  "price": 385,
+  "best": false,
+  "isNew": false,
+  "stock": 60,
+  "desc": "The most highly prized varieties of Arabica grow on fertile mountain lands reaching heights of 2,000 m, before coming together to create a coffee full of character and personality.",
+  "source": "https://www.lavazza.com/en/coffee-beans/qualita-oro-mountain-grown",
+  "pack": "500 g",
+  "intensity": 7,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Rich and velvety",
+  "profileDesc": "A dark-coloured blend with fruity and floral notes and a long-lasting crema.",
+  "decaf": false
+ },
+ {
+  "id": "beans-tierra",
+  "name": "¡Tierra! For Planet Organic",
+  "category": "beans",
+  "system": "beans",
+  "cls": "signature",
+  "env": [
+   "resort",
+   "cafe",
+   "home"
+  ],
+  "price": 395,
+  "best": false,
+  "isNew": false,
+  "stock": 60,
+  "desc": "Tierra For coffee project is a selection of organic beans. Discover this premium quality blend for a full bodied cup, mild taste with delicate, fruity notes.",
+  "source": "https://www.lavazza.com/en/coffee-beans/tierra-organic-planet",
+  "pack": "500 g",
+  "intensity": 6,
+  "scale": 10,
+  "roast": "Light",
+  "notes": [
+   "Floral",
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "full bodied cup, mild taste with delicate, fruity notes.",
+  "profileDesc": "",
+  "decaf": false
+ },
+ {
+  "id": "beans-tales-of-milano",
+  "name": "Tales of Milano",
+  "category": "beans",
+  "system": "beans",
+  "cls": "signature",
+  "env": [
+   "resort",
+   "home"
+  ],
+  "price": 240,
+  "best": false,
+  "isNew": true,
+  "stock": 60,
+  "desc": "A premium blend with 100% Arabica coffee crafted from late harvest coffee cherries. Each sip reflects the refined elegance and fashionable allure of Milan with its honey and red fruit notes.",
+  "source": "https://www.lavazza.com/en/coffee-beans/tales-of-milano",
+  "pack": "250 g",
+  "intensity": 7,
+  "scale": 10,
+  "roast": "Light",
+  "notes": [
+   "Fruity",
+   "Honey"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Smooth and delicate",
+  "profileDesc": "Gently roasted to enhance the flavor, resulting in a more delightful and rich taste.",
+  "decaf": false
+ },
+ {
+  "id": "beans-decaf",
+  "name": "Decaf Classico",
+  "category": "beans",
+  "system": "beans",
+  "cls": "everyday",
+  "env": [
+   "cafe",
+   "resort",
+   "guesthouse",
+   "home"
+  ],
+  "price": 330,
+  "best": false,
+  "isNew": false,
+  "stock": 60,
+  "desc": "A well-balanced, aromatic blend. Experience an unforgettable, full-bodied flavour. The ideal blend if you want to avoid caffeine without giving up the luxury of Italian coffee.",
+  "source": "https://www.lavazza.com/en/coffee-beans/decaf-classico",
+  "pack": "500 g",
+  "intensity": 3,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Fruity"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Full flavored",
+  "profileDesc": "Full flavoured with dry fruit notes.",
+  "decaf": true
+ },
+ {
+  "id": "ground-qualita-rossa",
+  "name": "Qualità Rossa",
+  "category": "ground",
+  "system": "ground",
+  "cls": "everyday",
+  "env": [
+   "home",
+   "guesthouse",
+   "office"
+  ],
+  "price": 129,
+  "best": true,
+  "isNew": false,
+  "stock": 80,
+  "desc": "Qualità Rossa embodies Lavazza's passion for coffee. A blend with a unique aroma and full body, rich and exceptionally well-rounded, composed mainly of Brazilian Arabica and African Robustas.",
+  "source": "https://www.lavazza.com/en/roast-and-ground-coffee/qualita-rossa",
+  "pack": "250 g",
+  "intensity": 5,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Chocolate"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Rich and full-bodied",
+  "profileDesc": "A dark-coloured, velvety-textured coffee with hints of chocolate.",
+  "decaf": false
+ },
+ {
+  "id": "ground-qualita-oro",
+  "name": "Qualità Oro",
+  "category": "ground",
+  "system": "ground",
+  "cls": "premium",
+  "env": [
+   "home",
+   "guesthouse",
+   "office"
+  ],
+  "price": 149,
+  "best": false,
+  "isNew": false,
+  "stock": 80,
+  "desc": "Born in 1956, Qualità Oro has been handed down from father to son for 70 years. A true coffee connoisseur like you will know the pleasure of enjoying a fine blend, every day.",
+  "source": "https://www.lavazza.com/en/roast-and-ground-coffee/qualita-oro-perfect-symphony",
+  "pack": "250 g",
+  "intensity": 5,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Floral",
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "Smooth and aromatic",
+  "profileDesc": "A coffee with a dark colour, velvety texture, notes of fruit and flowers.",
+  "decaf": false
+ },
+ {
+  "id": "ground-crema-e-gusto",
+  "name": "Crema e Gusto Classico",
+  "category": "ground",
+  "system": "ground",
+  "cls": "everyday",
+  "env": [
+   "home",
+   "guesthouse"
+  ],
+  "price": 119,
+  "best": false,
+  "isNew": false,
+  "stock": 80,
+  "desc": "A soft, well-rounded and enveloping blend composed of high-quality Arabica and Robusta. The perfect harmony between sweet and spiced notes. Ideal for milk-based preparations.",
+  "source": "https://www.lavazza.com/en/roast-and-ground-coffee/crema-e-gusto",
+  "pack": "250 g",
+  "intensity": 7,
+  "scale": 10,
+  "roast": "Dark",
+  "notes": [
+   "Spices"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Creamy and full-bodied",
+  "profileDesc": "A quality coffee with a dark colour, spicy notes and an inviting taste",
+  "decaf": false
+ },
+ {
+  "id": "ground-barista-intenso",
+  "name": "Espresso Barista Intenso",
+  "category": "ground",
+  "system": "ground",
+  "cls": "premium",
+  "env": [
+   "home",
+   "guesthouse",
+   "cafe"
+  ],
+  "price": 145,
+  "best": false,
+  "isNew": false,
+  "stock": 80,
+  "desc": "Espresso Barista Intenso is the expression of Lavazza's expertise in crafting superior quality coffee to make you feel like a barista. Enjoy authentic Italian espresso.",
+  "source": "https://www.lavazza.com/en/roast-and-ground-coffee/espresso-barista-intenso",
+  "pack": "250 g",
+  "intensity": 9,
+  "scale": 10,
+  "roast": "Drum",
+  "notes": [
+   "Chocolate"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Intense and full-bodied",
+  "profileDesc": "A coffee with an intense aftertaste and notes of cocoa and wood.",
+  "decaf": false
+ },
+ {
+  "id": "ground-tierra",
+  "name": "¡Tierra! For Planet Organic",
+  "category": "ground",
+  "system": "ground",
+  "cls": "signature",
+  "env": [
+   "home",
+   "resort"
+  ],
+  "price": 159,
+  "best": false,
+  "isNew": false,
+  "stock": 80,
+  "desc": "Tierra For coffee project is a selection of organic beans. Discover this premium quality blend for a full bodied cup, mild taste with delicate, fruity notes.",
+  "source": "https://www.lavazza.com/en/roast-and-ground-coffee/tierra-organic-planet",
+  "pack": "180 g",
+  "intensity": 6,
+  "scale": 10,
+  "roast": "Light",
+  "notes": [
+   "Floral",
+   "Fruity"
+  ],
+  "blend": "100% Arabica",
+  "profile": "full bodied cup, mild taste with delicate, fruity notes.",
+  "profileDesc": "",
+  "decaf": false
+ },
+ {
+  "id": "ground-tales-of-roma",
+  "name": "Tales of Roma",
+  "category": "ground",
+  "system": "ground",
+  "cls": "signature",
+  "env": [
+   "home",
+   "resort"
+  ],
+  "price": 169,
+  "best": false,
+  "isNew": true,
+  "stock": 80,
+  "desc": "Immerse yourself in an expert blend of selected handpicked Arabica and Robusta. Let Tales of Roma whisk you away to the timeless streets of the Eternal City, thanks to its notes of hazelnut and dark chocolate.",
+  "source": "https://www.lavazza.com/en/roast-and-ground-coffee/eternal-roma",
+  "pack": "200 g",
+  "intensity": 8,
+  "scale": 10,
+  "roast": "Medium light",
+  "notes": [
+   "Nutty",
+   "Chocolate"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Authentic and full-bodied",
+  "profileDesc": "A smooth blend of handpicked beans renowned for their exceptional quality.",
+  "decaf": false
+ },
+ {
+  "id": "ground-decaf",
+  "name": "Decaf",
+  "category": "ground",
+  "system": "ground",
+  "cls": "everyday",
+  "env": [
+   "home",
+   "guesthouse"
+  ],
+  "price": 139,
+  "best": false,
+  "isNew": false,
+  "stock": 80,
+  "desc": "Lavazza Decaf is perfect for any moment of the day. Decaffeinated with a gentle method exploiting the qualities of carbon dioxide, preserving aromas and the iconic taste of Lavazza, for an extraordinary experience, anytime any moment.",
+  "source": "https://www.lavazza.com/en/roast-and-ground-coffee/decaf.1107",
+  "pack": "250 g",
+  "intensity": 3,
+  "scale": 10,
+  "roast": "Medium",
+  "notes": [
+   "Dried fruit"
+  ],
+  "blend": "Arabica and Robusta",
+  "profile": "Sweet and balanced",
+  "profileDesc": "Full flavoured with dry fruit notes.",
+  "decaf": true
+ },
+ {
+  "id": "m-jolie-evo",
+  "name": "A Modo Mio Jolie Evo",
+  "category": "machines",
+  "system": "amm",
+  "cls": "everyday",
+  "env": [
+   "home",
+   "guesthouse"
+  ],
+  "price": 2450,
+  "best": true,
+  "isNew": false,
+  "stock": 9,
+  "desc": "Jolie Evo, the newest Lavazza A Modo Mio model made with at least 36% of recycled plastic. Sleek and stylish, it adapts perfectly to every style, and at the same time giving a touch of barista quality to your coffee moments.",
+  "source": "https://www.lavazza.com/en/coffee-machines/jolie-evo.18001396",
+  "features": [
+   {
+    "t": "Stop&Go Button",
+    "d": "To select the desired amount of espresso any time you want."
+   },
+   {
+    "t": "A compact size",
+    "d": "Ideal fit for your favourite corner of the house."
+   },
+   {
+    "t": "Removable small/large cup support rack",
+    "d": "For espresso cups or mugs."
+   },
+   {
+    "t": "Energy Saving",
+    "d": "Automatic off mode time within 2 minutes."
+   }
+  ],
+  "specs": [
+   [
+    "Width",
+    "124 mm"
+   ],
+   [
+    "Depth",
+    "330 mm"
+   ],
+   [
+    "Height",
+    "210 mm"
+   ],
+   [
+    "Weight",
+    "2.6 kg"
+   ],
+   [
+    "Water tank",
+    "0.6 l"
+   ],
+   [
+    "Heat-up time",
+    "35 sec"
+   ],
+   [
+    "Auto shut-off",
+    "2 min"
+   ],
+   [
+    "Used capsule drawer",
+    "5"
+   ],
+   [
+    "App connected",
+    "No"
+   ],
+   [
+    "Power",
+    "1250 W"
+   ],
+   [
+    "Voltage",
+    "220-240 V"
+   ]
+  ],
+  "funcs": [
+   "espresso",
+   "autoOff",
+   "compact"
+  ],
+  "tank": "0.6 l",
+  "heat": "35 sec",
+  "size": "124 x 330 x 210 mm",
+  "gallery": 4
+ },
+ {
+  "id": "m-jolie-evo-plus",
+  "name": "A Modo Mio Jolie Evo Plus",
+  "category": "machines",
+  "system": "amm",
+  "cls": "premium",
+  "env": [
+   "home",
+   "guesthouse",
+   "office"
+  ],
+  "price": 2950,
+  "best": false,
+  "isNew": false,
+  "stock": 9,
+  "desc": "Jolie Plus Evo, a practical and elegant coffee machine made with at least 40% of recycled plastic. Choose between a classic espresso or a long coffee and savor the unmistakable taste of Lavazza whenever you want.",
+  "source": "https://www.lavazza.com/en/coffee-machines/a-modo-mio-jolie-plus-evo",
+  "features": [
+   {
+    "t": "2 coffee selections",
+    "d": "Automatic and programmable, for an espresso or an espresso lungo."
+   },
+   {
+    "t": "Premium finishes",
+    "d": "For a concentration of style and innovation."
+   },
+   {
+    "t": "Removable small/large cup support rack",
+    "d": "For espresso cups or mugs."
+   },
+   {
+    "t": "Energy saving",
+    "d": "Automatic off mode time within 2 minutes."
+   }
+  ],
+  "specs": [
+   [
+    "Width",
+    "124 mm"
+   ],
+   [
+    "Depth",
+    "330 mm"
+   ],
+   [
+    "Height",
+    "210 mm"
+   ],
+   [
+    "Weight",
+    "2.6 kg"
+   ],
+   [
+    "Water tank",
+    "0.6 l"
+   ],
+   [
+    "Auto shut-off",
+    "2 min"
+   ],
+   [
+    "Used capsule drawer",
+    "5"
+   ],
+   [
+    "Recipes",
+    "Espresso, Long coffee"
+   ],
+   [
+    "Programmable doses",
+    "Yes"
+   ],
+   [
+    "App connected",
+    "No"
+   ],
+   [
+    "Voice assistant",
+    "No"
+   ],
+   [
+    "Power",
+    "1250 W"
+   ],
+   [
+    "Voltage",
+    "220-240 V"
+   ]
+  ],
+  "funcs": [
+   "espresso",
+   "lungo",
+   "programmable",
+   "autoOff",
+   "compact"
+  ],
+  "tank": "0.6 l",
+  "heat": "",
+  "size": "124 x 330 x 210 mm",
+  "gallery": 3
+ },
+ {
+  "id": "m-jolie-milk-evo",
+  "name": "A Modo Mio Jolie & Milk Evo",
+  "category": "machines",
+  "system": "amm",
+  "cls": "premium",
+  "env": [
+   "home",
+   "guesthouse",
+   "office"
+  ],
+  "price": 3950,
+  "best": true,
+  "isNew": false,
+  "stock": 9,
+  "desc": "Jolie & Milk Evo - made with recycled plastic, elegant and quiet, it allows you to prepare original recipes using coffee and fresh milk. Authentic espresso and the real Italian cappuccino, thanks to its integrated frother.",
+  "source": "https://www.lavazza.com/en/coffee-machines/a-modo-mio-jolie-milk-evo",
+  "features": [
+   {
+    "t": "2 coffee selections",
+    "d": "Automatic and programmable, for an espresso or an espresso lungo."
+   },
+   {
+    "t": "Integrated milk frother",
+    "d": "For creating exquisite milk froths for your coffee-based recipes."
+   },
+   {
+    "t": "Removable small/large cup support rack",
+    "d": "For espresso cups or mugs."
+   },
+   {
+    "t": "Capsule drawer full indicator",
+    "d": "Both buttons flash rapidly to indicate it needs to be emptied."
+   }
+  ],
+  "specs": [
+   [
+    "Width",
+    "222 mm"
+   ],
+   [
+    "Depth",
+    "217 mm"
+   ],
+   [
+    "Height",
+    "331 mm"
+   ],
+   [
+    "Weight",
+    "4.9 kg"
+   ],
+   [
+    "Water tank",
+    "0.6 l"
+   ],
+   [
+    "Heat-up time",
+    "35 sec"
+   ],
+   [
+    "Auto shut-off",
+    "2 min"
+   ],
+   [
+    "Used capsule drawer",
+    "5"
+   ],
+   [
+    "Recipes",
+    "Espresso, Hot milk, Long espresso"
+   ],
+   [
+    "Programmable doses",
+    "Yes"
+   ],
+   [
+    "App connected",
+    "No"
+   ],
+   [
+    "Voice assistant",
+    "No"
+   ],
+   [
+    "Power",
+    "1250 W"
+   ],
+   [
+    "Voltage",
+    "220-240 V"
+   ]
+  ],
+  "funcs": [
+   "espresso",
+   "lungo",
+   "milk",
+   "programmable",
+   "autoOff"
+  ],
+  "tank": "0.6 l",
+  "heat": "35 sec",
+  "size": "222 x 217 x 331 mm",
+  "gallery": 4
+ },
+ {
+  "id": "m-desea",
+  "name": "A Modo Mio Deséa",
+  "category": "machines",
+  "system": "amm",
+  "cls": "premium",
+  "env": [
+   "home",
+   "office",
+   "guesthouse"
+  ],
+  "price": 5900,
+  "best": false,
+  "isNew": false,
+  "stock": 9,
+  "desc": "Desea is your personal barista. Enjoy 5 milk-based recipes or 4 different coffee sizes with a single touch. A coffee machine with an intuitive touch interface and a refined glass mug.",
+  "source": "https://www.lavazza.com/en/coffee-machines/desea",
+  "features": [
+   {
+    "t": "Modern technology",
+    "d": "Prepare your favourite coffee at any time with the quietest machine of its kind."
+   },
+   {
+    "t": "Foam control",
+    "d": "If you want more foam, you can increase the amount by pressing a button."
+   },
+   {
+    "t": "User-friendly",
+    "d": "Choose from 4 different coffee sizes, a subtle sound alert will notify you when your drink is ready."
+   },
+   {
+    "t": "Temperature boost",
+    "d": "If you want a warmer coffee, you can increase the temperature by pressing a button."
+   }
+  ],
+  "specs": [
+   [
+    "Width",
+    "145 mm"
+   ],
+   [
+    "Depth",
+    "380 mm"
+   ],
+   [
+    "Height",
+    "280 mm"
+   ],
+   [
+    "Weight",
+    "4.25 kg"
+   ],
+   [
+    "Water tank",
+    "1.1 l"
+   ],
+   [
+    "Auto shut-off",
+    "9 min"
+   ],
+   [
+    "App connected",
+    "No"
+   ],
+   [
+    "Power",
+    "1500 W"
+   ],
+   [
+    "Voltage",
+    "220-240 V"
+   ]
+  ],
+  "funcs": [
+   "espresso",
+   "autoOff",
+   "milk",
+   "programmable"
+  ],
+  "tank": "1.1 l",
+  "heat": "",
+  "size": "145 x 380 x 280 mm",
+  "gallery": 2
+ },
+ {
+  "id": "m-smeg",
+  "name": "A Modo Mio SMEG",
+  "category": "machines",
+  "system": "amm",
+  "cls": "signature",
+  "env": [
+   "home",
+   "resort"
+  ],
+  "price": 6900,
+  "best": false,
+  "isNew": false,
+  "stock": 9,
+  "desc": "The ideal coffee machine to prepare an authentic Italian espresso. SMEG combines cutting-edge technology, tradition and a one-of-a-kind design in a slick espresso maker.",
+  "source": "https://www.lavazza.com/en/coffee-machines/a-modo-mio-smeg",
+  "features": [
+   {
+    "t": "Modern",
+    "d": "Vary the size of your drink with our adjustable cup rest."
+   },
+   {
+    "t": "Elegant",
+    "d": "A coffee machine where iconic style meets advanced technology."
+   },
+   {
+    "t": "Iconic",
+    "d": "Available in 3 classic colours: black, red and beige.."
+   },
+   {
+    "t": "Versatile",
+    "d": "Compatible with all Lavazza A Modo Mio capsules."
+   }
+  ],
+  "specs": [
+   [
+    "Width",
+    "157 mm"
+   ],
+   [
+    "Depth",
+    "366 mm"
+   ],
+   [
+    "Height",
+    "290 mm"
+   ],
+   [
+    "Weight",
+    "4.25 kg"
+   ],
+   [
+    "Water tank",
+    "0.9 l"
+   ],
+   [
+    "Heat-up time",
+    "30 sec"
+   ],
+   [
+    "Auto shut-off",
+    "9 min"
+   ],
+   [
+    "Used capsule drawer",
+    "6"
+   ],
+   [
+    "Recipes",
+    "Espresso, Long espresso"
+   ],
+   [
+    "Programmable doses",
+    "Yes"
+   ],
+   [
+    "App connected",
+    "No"
+   ],
+   [
+    "Power",
+    "1250 W"
+   ],
+   [
+    "Voltage",
+    "220-240 V"
+   ]
+  ],
+  "funcs": [
+   "espresso",
+   "lungo",
+   "programmable",
+   "autoOff"
+  ],
+  "tank": "0.9 l",
+  "heat": "30 sec",
+  "size": "157 x 366 x 290 mm",
+  "gallery": 4
+ },
+ {
+  "id": "m-voicy",
+  "name": "A Modo Mio Voicy",
+  "category": "machines",
+  "system": "amm",
+  "cls": "signature",
+  "env": [
+   "home",
+   "office"
+  ],
+  "price": 6500,
+  "best": false,
+  "isNew": false,
+  "stock": 9,
+  "desc": "Voicy is the first espresso machine with an Alexa Built-in. Personalize your coffee routine with your smart assistant to enjoy a truly innovative coffee experience.",
+  "source": "https://www.lavazza.com/en/coffee-machines/a-modo-mio-voicy",
+  "features": [
+   {
+    "t": "Interact with Voicy",
+    "d": "You can choose how you prefer to interact with your espresso machine: analogue, voice or digital."
+   },
+   {
+    "t": "Full customisation",
+    "d": "You can create your personalised coffee and name your favourite espresso."
+   },
+   {
+    "t": "Your smart home",
+    "d": "You can ask for an espresso and also control all the smart devices in your home."
+   },
+   {
+    "t": "Entertainment",
+    "d": "Music, news, weather and more: you'll have the whole world of Amazon Alexa at your fingertips."
+   }
+  ],
+  "specs": [
+   [
+    "Width",
+    "157 mm"
+   ],
+   [
+    "Depth",
+    "380 mm"
+   ],
+   [
+    "Height",
+    "300 mm"
+   ],
+   [
+    "Weight",
+    "4.5 kg"
+   ],
+   [
+    "Water tank",
+    "1.1 l"
+   ],
+   [
+    "Heat-up time",
+    "35 sec"
+   ],
+   [
+    "Auto shut-off",
+    "9 min"
+   ],
+   [
+    "Used capsule drawer",
+    "10"
+   ],
+   [
+    "Recipes",
+    "Espresso, Long espresso"
+   ],
+   [
+    "Programmable doses",
+    "Yes"
+   ],
+   [
+    "App connected",
+    "Yes"
+   ],
+   [
+    "Voice assistant",
+    "Yes"
+   ],
+   [
+    "Power",
+    "1500 W"
+   ],
+   [
+    "Voltage",
+    "220-240 V"
+   ]
+  ],
+  "funcs": [
+   "espresso",
+   "lungo",
+   "programmable",
+   "app",
+   "voice",
+   "autoOff"
+  ],
+  "tank": "1.1 l",
+  "heat": "35 sec",
+  "size": "157 x 380 x 300 mm",
+  "gallery": 4
+ },
+ {
+  "id": "m-tabli",
+  "name": "Tablì",
+  "category": "machines",
+  "system": "tabli",
+  "cls": "signature",
+  "env": [
+   "home",
+   "office"
+  ],
+  "price": 4950,
+  "best": false,
+  "isNew": true,
+  "stock": 9,
+  "desc": "The revolutionary coffee system, made only for Tablì 100% coffee tabs. Discover all its innovative features",
+  "source": "https://www.lavazza.com/en/tabli-machines/tabli",
+  "features": [
+   {
+    "t": "Unique and innovative",
+    "d": "Made only for Tablì 100% coffee tabs"
+   },
+   {
+    "t": "Crema Plus",
+    "d": "A rich and persistent crema that makes every sip velvety and enveloping"
+   },
+   {
+    "t": "Smart Connection by App",
+    "d": "Discover the Tablì App and personalize your coffee experience"
+   },
+   {
+    "t": "Voice control",
+    "d": "Compatible with Alexa & Google Home"
+   }
+  ],
+  "specs": [
+   [
+    "Width",
+    "165 mm"
+   ],
+   [
+    "Depth",
+    "390 mm"
+   ],
+   [
+    "Height",
+    "327 mm"
+   ],
+   [
+    "Weight",
+    "4.5 kg"
+   ],
+   [
+    "Water tank",
+    "1.2 l"
+   ],
+   [
+    "Heat-up time",
+    "35 sec"
+   ],
+   [
+    "Auto shut-off",
+    "2 min"
+   ],
+   [
+    "Used capsule drawer",
+    "8"
+   ],
+   [
+    "Programmable doses",
+    "Yes"
+   ],
+   [
+    "App connected",
+    "Yes"
+   ],
+   [
+    "Voice assistant",
+    "Yes"
+   ],
+   [
+    "Power",
+    "1450 W"
+   ],
+   [
+    "Voltage",
+    "220-240 V"
+   ]
+  ],
+  "funcs": [
+   "espresso",
+   "programmable",
+   "app",
+   "voice",
+   "autoOff",
+   "lungo"
+  ],
+  "tank": "1.2 l",
+  "heat": "35 sec",
+  "size": "165 x 390 x 327 mm",
+  "gallery": 4
+ },
+ {
+  "id": "m-assoluta",
+  "name": "Assoluta Bean to Cup",
+  "category": "machines",
+  "system": "beans",
+  "cls": "signature",
+  "env": [
+   "office",
+   "guesthouse",
+   "home",
+   "resort"
+  ],
+  "price": 17900,
+  "best": false,
+  "isNew": true,
+  "stock": 9,
+  "desc": "Introducing the first Bean to Cup machine from Lavazza's Coffee Masters. Experience an authentic Italian espresso at home with a sleek, compact machine that combines advanced technology with the unmistakable quality of Lavazza coffee beans. Are you ready to Grind the Masterpiece?",
+  "source": "https://www.lavazza.com/en/coffee-machines/bean-to-cup-assoluta",
+  "features": [
+   {
+    "t": "Perfect Bean Match",
+    "d": "Settings on the Assoluta will automatically adjust to enhance your favourite Lavazza coffee blend. Pouring a perfect cup, every time."
+   },
+   {
+    "t": "Supreme Milk Foam",
+    "d": "Now you can create sumptuous foam with ease, thanks to Lavazza’s patented milk-frothing technology."
+   },
+   {
+    "t": "The Lavazza App",
+    "d": "Customise your experience, control your coffee, and discover exclusive recipes, designed by Lavazza Coffee Masters."
+   },
+   {
+    "t": "Compact design",
+    "d": "Small and perfectly formed. Lavazza Assoluta is a smart, aesthetic addition to your home."
+   }
+  ],
+  "specs": [
+   [
+    "Width",
+    "220 mm"
+   ],
+   [
+    "Depth",
+    "435 mm"
+   ],
+   [
+    "Height",
+    "358 mm"
+   ],
+   [
+    "Weight",
+    "10 kg"
+   ],
+   [
+    "Water tank",
+    "1.5 l"
+   ],
+   [
+    "Heat-up time",
+    "35 sec"
+   ],
+   [
+    "Auto shut-off",
+    "3 min"
+   ],
+   [
+    "Recipes",
+    "Cappuccino, Cold milk foam, Espresso, Hot milk foam, Large cappuccino, Latte macchiato, Long coffee, Long espresso, Other recipes"
+   ],
+   [
+    "Programmable doses",
+    "Yes"
+   ],
+   [
+    "App connected",
+    "Yes"
+   ],
+   [
+    "Voice assistant",
+    "No"
+   ],
+   [
+    "Power",
+    "1550 W"
+   ],
+   [
+    "Voltage",
+    "220-240 V"
+   ]
+  ],
+  "funcs": [
+   "espresso",
+   "lungo",
+   "milk",
+   "programmable",
+   "app",
+   "autoOff",
+   "grinder"
+  ],
+  "tank": "1.5 l",
+  "heat": "35 sec",
+  "size": "220 x 435 x 358 mm",
+  "gallery": 4
+ },
+ {
+  "id": "mk-carmencita-pro",
+  "name": "Carmencita Pro Moka Pot",
+  "category": "makers",
+  "system": "ground",
+  "cls": "premium",
+  "env": [
+   "home",
+   "guesthouse"
+  ],
+  "price": 890,
+  "best": false,
+  "isNew": false,
+  "stock": 14,
+  "desc": "Its unmistakable conical shape and revamped design make Carmencita a more up-to-date moka pot than ever before; a truly timeless decor feature.",
+  "source": "https://www.lavazza.com/en/coffee-makers/carmencita-pro"
+ },
+ {
+  "id": "mk-carmencita-black",
+  "name": "Carmencita Black Moka Pot",
+  "category": "makers",
+  "system": "ground",
+  "cls": "everyday",
+  "env": [
+   "home",
+   "guesthouse"
+  ],
+  "price": 790,
+  "best": false,
+  "isNew": false,
+  "stock": 14,
+  "desc": "An iconic coffee maker with an unmistakable conical shape. This revamped model is a timeless beauty. Modern, elegant and appealing Italian design at its best.",
+  "source": "https://www.lavazza.com/en/coffee-makers/carmencita-black"
+ },
+ {
+  "id": "mk-french-press",
+  "name": "French Press by Bodum",
+  "category": "makers",
+  "system": "ground",
+  "cls": "everyday",
+  "env": [
+   "home",
+   "guesthouse",
+   "office"
+  ],
+  "price": 690,
+  "best": false,
+  "isNew": false,
+  "stock": 14,
+  "desc": "This coffee maker is a masterpiece created by Lavazza in partnership with Bodum. The ideal companion for moments of relaxation while savouring a delicious coffee.",
+  "source": "https://www.lavazza.com/en/coffee-makers/french-press-cafetiere-by-bodum"
+ }
+]
